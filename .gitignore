@@ -1,2 +1,4 @@
 # ignore the nsynth-subtrain directory under HW0 folder
 HW0/nsynth-subtrain/
+HW0/nsynth-test/
+HW0/nsynth-valid/
