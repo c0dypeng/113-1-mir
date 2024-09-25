@@ -2,3 +2,6 @@ HW0/nsynth-subtrain/
 HW0/nsynth-test/
 HW0/nsynth-valid/
 HW0/legacy/
+HW0/2/knn_model.pkl
+HW0/2/scaler_mfcc.pkl
+HW0/2/scaler_spectral_contrast.pkl
