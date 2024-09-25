@@ -5,3 +5,6 @@ HW0/legacy/
 HW0/2/knn_model.pkl
 HW0/2/scaler_mfcc.pkl
 HW0/2/scaler_spectral_contrast.pkl
+HW0/3/label_encoder_mel_log.pkl
+HW0/3/label_encoder_mel.pkl
+HW0/3/mel_model_log.pth
