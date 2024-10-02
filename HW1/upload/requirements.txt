@@ -1,0 +1,12 @@
+matplotlib
+glob2
+pretty_midi
+numpy
+argparse
+torch
+torchaudio
+transformers
+datasets
+nnAudio
+tqdm
+scikit-learn
